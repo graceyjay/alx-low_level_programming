@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-viod print_numbers(void)
+void print_numbers(void)
 {
 	int c;
 
